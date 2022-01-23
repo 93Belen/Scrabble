@@ -1,0 +1,24 @@
+{
+  "name": "scrabble",
+  "version": "1.0.0",
+  "description": "SCRABLE APP",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "start": "node app.js",
+    "type": "git",
+    "url": "git+https://github.com/93Belen/Scrabble.git"
+  },
+  "author": "Belen Garcia Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/93Belen/Scrabble/issues"
+  },
+  "homepage": "https://github.com/93Belen/Scrabble#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.4"
+  }
+}
